@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Getting weather example",
+  "description": "This extension will get weather for a city",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "wundergroundLogo_4c.png",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
