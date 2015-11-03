@@ -10,4 +10,6 @@ equivalent to create
 
 PUT: update
 
-DELETE: delete 
+DELETE: delete
+
+## Build a Chrome Extension:
